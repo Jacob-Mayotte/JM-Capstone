@@ -1,2 +1,4 @@
 # JM-Capstone
-Capstone repository home
+Capstone Repo Home!
+
+To be continued...
