@@ -1,4 +1,6 @@
 # JM-Capstone
 Capstone Repo Home!
 
-To be continued...
+Assignments: 
+
+**To be continued...**
