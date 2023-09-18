@@ -5,5 +5,5 @@ The key:
 * Orange = This requires further research. Will have to add sub-topics to these areas. Ideally, finding guides, etc. 
 * Green = Okay I have done this before, and this should not cause any hiccups. 
 
-
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVMkO_Qik=/?moveToViewport=-303,-1100,2177,2184&embedId=34598075977" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+### MindMap:
+![<../Mind Maps.jpg>](<../Mind Maps (1).jpg>)
